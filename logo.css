@@ -1,0 +1,14 @@
+.form{
+    margin: 0 auto;
+    width: 690px;
+    height: 570px;
+    border: 2px solid grey;
+    padding: 10px;
+}
+.rodape{
+    margin: 0 auto;
+    width: 690px;
+    height: 100px;
+    border: 2px solid grey;
+}
+
